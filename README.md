@@ -4,3 +4,5 @@ The dataset used is created using web scraping from the web site:
 "https://www.worldometers.info/coronavirus/#countries"
 Using Tableau the data is visualized into charts.
 A covid-19 dashboard is created.
+
+
